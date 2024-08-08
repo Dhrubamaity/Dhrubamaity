@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dhrubamaity
--  I’m interested in Web dev 🧑‍💻
--  currently learning js
--  insta => dhrubajyoti_maity
+- 👋 Hi, my name is Dhrubajyoti Maity
+-  Web dev 🧑‍💻
+-  currently learning SQL
 
 
 <!---
