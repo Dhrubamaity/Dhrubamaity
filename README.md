@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Dhrubajyoti Maity
--  Web dev 🧑‍💻
+- 🧑‍💻 Web developer
 -  currently learning web-3
 
 
