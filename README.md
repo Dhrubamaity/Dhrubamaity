@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Dhrubajyoti Maity
 -  Web dev 🧑‍💻
--  currently learning SQL
+-  currently learning web-3
 
 
 <!---
