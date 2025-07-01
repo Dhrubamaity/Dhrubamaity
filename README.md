@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Dhrubajyoti Maity
 - 🧑‍💻 Web developer
--  currently learning web-3
+-  currently learning vite+React
 
 
 <!---
